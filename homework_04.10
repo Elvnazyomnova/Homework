@@ -1,0 +1,6 @@
+my_favorite_songs = 'Waste a Moment, Staying\' Alive, A Sorta Fairytale, Start Me Up, New Salvation'
+rating_1 = my_favorite_songs[:14]
+rating_2 = my_favorite_songs[-13:]
+rating_3 = my_favorite_songs[16:30]
+rating_4 = my_favorite_songs[-26:-15]
+print(rating_1, rating_2, rating_3, rating_4)
