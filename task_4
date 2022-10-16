@@ -23,4 +23,4 @@ random_choice =sample(my_favorite_songs, 3)
 from pprint import pprint
 print(random_choice)
 name, name_1, name_2  = random_choice
-print(name[1]+name_1[1]+name_2[1])
+print('Три песни звучат', name[1]+name_1[1]+name_2[1], 'минут')
