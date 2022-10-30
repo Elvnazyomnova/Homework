@@ -29,3 +29,6 @@ for products in sales[code]:
     price = products['price'] 
     cost += quantity * price 
 print(name, " - ", quantity, " шт, ", cost, " руб")
+
+# Хорошо
+# ВНИМАНИЕ!!! ФАЙЛЫ ДОЛЖНЫ БЫТЬ С РАСШИРЕНИЕМ .py
